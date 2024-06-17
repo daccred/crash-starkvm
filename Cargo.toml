@@ -4,5 +4,7 @@ resolver = "2"
 members = [
     "common",
     "api", 
-    "cairo_execution",
+    "cairo_execution", 
+    "database", 
+    "pre_processor_vm",
 ]
